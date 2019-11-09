@@ -1,0 +1,11 @@
+En el archivo de citas: 
+
+1. Agregar tipografías con google fonts
+2. Encerrar cada cita en un div, con clase "container"
+3. Encerrar cada elemento en otro div, con clase "section"
+4. Ponerle a cada "section" y a cada "container" un color de fondo distinto (para esto van a tener que agregar una clase distinta a cada uno, como "section-first")
+5. Ponerle a "container" 
+  * un ancho en pixeles
+  * un margin en pixeles, para que quede espaciado verticalmente a la misma distancia con respecto a "section", y quede centrado horizontalmente
+  * un padding en pixeles
+6. A las citas, agregarle un border-left y un padding, para que parezca un bloque de cita 
