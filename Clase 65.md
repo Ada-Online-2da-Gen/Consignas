@@ -26,5 +26,5 @@ document.querySelector('.checkbox').checked // false
 - Debería mostrar la cantidad de resultados obtenidos
 <br>
 
-Refactorizar el resto de código en lo posible reutilizar y simplificar funciones, y realizar la menor cantidad de pedidos HTTP repetidos que se pueda.
+Refactorizar el resto de código en lo posible para reutilizar y simplificar funciones y realizar la menor cantidad de pedidos HTTP repetidos que se pueda.
 
