@@ -24,4 +24,7 @@ document.querySelector('.checkbox').checked // false
 ```
 - Al modificarse cualquier filtro, debería actualizarse la lista de resultados
 - Debería mostrar la cantidad de resultados obtenidos
+<br>
+
+Refactorizar el resto de código en lo posible reutilizar y simplificar funciones, y realizar la menor cantidad de pedidos HTTP repetidos que se pueda.
 
